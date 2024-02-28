@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 122.0.0.0,,,28-02-2024 09:05:15,28-02-2024 09:05:21,6.652s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 122.0.0.0,,,28-02-2024 09:05:15,28-02-2024 09:05:21,6.472s,PASSED
+"openBrowser("""")",Chrome 122.0.0.0,,,28-02-2024 09:05:15,28-02-2024 09:05:17,2.174s,PASSED
+"navigateToUrl(""https://cmiti-dev.outsystemsenterprise.com/WebHealthClaimsSystem/Login"")",Chrome 122.0.0.0,,,28-02-2024 09:05:17,28-02-2024 09:05:18,0.661s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_MEMBER LOGIN_Input_Username2""), ""renor"")",Chrome 122.0.0.0,,,28-02-2024 09:05:18,28-02-2024 09:05:20,2.091s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_MEMBER LOGIN_Input_Password2""), ""iFGeFYmXIrU6ruIopQUS+w=="")",Chrome 122.0.0.0,,,28-02-2024 09:05:20,28-02-2024 09:05:21,0.549s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/i_MEMBER LOGIN_view3""))",Chrome 122.0.0.0,,,28-02-2024 09:05:21,28-02-2024 09:05:21,0.466s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,28-02-2024 09:05:21,28-02-2024 09:05:21,0.258s,PASSED
